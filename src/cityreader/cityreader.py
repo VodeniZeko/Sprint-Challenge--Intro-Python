@@ -78,6 +78,7 @@ for c in cities:
 
 
 def cityreader_stretch(lat1, lon1, lat2, lon2, cities=[]):
+
     # within will hold the cities that fall within the specified region
     within = []
 
